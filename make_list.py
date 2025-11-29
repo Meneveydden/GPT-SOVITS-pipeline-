@@ -1,3 +1,7 @@
+#python make_list.py ^
+ # "E:\Resound Project\buriy_audiobooks_2_val.tar\buriy_audiobooks_2_val" ^
+ # "E:\Resound Project\buriy_train.list"
+
 import os
 import argparse
 
